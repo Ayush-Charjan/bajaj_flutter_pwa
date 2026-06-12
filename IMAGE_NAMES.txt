@@ -63,23 +63,4 @@ notification.png
 settings.png
 help.png
 
-
-===========================================
-TOTAL: 50+ Images
-===========================================
-
-QUICK DOWNLOAD SOURCES:
-- Images: unsplash.com, pexels.com
-- Icons: flaticon.com, icons8.com
-- Placeholders: via.placeholder.com
-
-PRIORITY ORDER (start with these):
-1. app_logo.png
-2. user_placeholder.png
-3. banner1.jpg
-4. gold_emi.jpg → home_loan.jpg (6 EMI images)
-5. mobile.jpg → headphones.jpg (6 electronics)
-6. All icons
-
-APP WORKS WITHOUT IMAGES!
-Fallback icons will show instead.
+.
