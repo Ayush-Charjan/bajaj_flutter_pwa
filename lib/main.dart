@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+'simport 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'screens/new_main_navigation_screen.dart';
 import 'utils/app_colors.dart';
@@ -139,7 +139,6 @@ class BajajFinservApp extends StatelessWidget {
           type: BottomNavigationBarType.fixed,
           elevation: 8,
         ),
-
         // Scaffold background color
         scaffoldBackgroundColor: AppColors.background,
 

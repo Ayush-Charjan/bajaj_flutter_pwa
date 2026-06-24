@@ -158,11 +158,10 @@ flutter run -d [platform]
 
 This is a learning project, but contributions are welcome!
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Create your feature branch
+2. Commit your changes
+3. Push to your remote of choice
+4. Open a pull request
 
 ## 📚 Learning Resources
 
@@ -189,7 +188,6 @@ This project is created for educational purposes and is free to use and modify f
 ## 👨‍💻 Author
 
 **Ayush Charjan**
-- GitHub: [@Ayush-Charjan](https://github.com/Ayush-Charjan)
 
 ## ⭐ Show Your Support
 
